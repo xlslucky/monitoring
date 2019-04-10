@@ -13,7 +13,7 @@ const sendUsers = [
   }
 ]
 
-const time = 5000
+const time = 20000
 
 const filmName = '复仇'
 
